@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTIFICATIONS>
+<show_notifications value="true"/>
+<app_notification_enabled_default value="true"/>
+<default_notification_color value="#00FF00"/>
+<notification_format value="&#55357;&#56563;[%t1] %app: %[40][teal]title --- %[40][aqua]text"/>
+<click_notification value="true"/>
+<long_click_notification value="true"/>
+<notification_popup_exclude_app value="true"/>
+<notification_popup_exclude_notification value="true"/>
+<notification_popup_reply value="true"/>
+<com.whatsapp enabled="true" color="#25d366"/>
+<org.telegram.messenger enabled="true" color="#0088cc"/>
+<com.google.android.gms enabled="false"/>
+<com.android.systemui enabled="false"/>
+<com.google.android.apps.maps enabled="false"/>
+<android enabled="false"/>
+<com.microsoft.skydrive enabled="false"/>
+<com.android.providers.downloads enabled="false"/>
+<com.android.vending enabled="false"/>
+</NOTIFICATIONS>

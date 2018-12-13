@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HTMLEXTRACT>
+
+<json id="1" value="$['main']['temp','temp_max','temp_min']"/>
+<json id="2" value="$"/>
+<json id="3" value="$['weather'][0]['description','icon']"/>
+<format id="4" value="%a(%av)(_)"/>
+<xpath id="5" value="data(//city/@name|//city/country/text()|//temperature/@value|//temperature/@min|//temperature/@max|//weather/@icon)"/>
+<xpath id="6" value="//*"/>
+<format id="7" value="%t(name)"/>
+</HTMLEXTRACT>

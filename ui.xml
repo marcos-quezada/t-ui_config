@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UI>
+<show_enter_button value="true"/>
+<system_font value="false"/>
+<input_bottom value="true"/>
+<show_ram value="true"/>
+<show_device_name value="true"/>
+<show_battery value="true"/>
+<show_storage_info value="true"/>
+<enable_battery_status value="true"/>
+<show_time value="true"/>
+<username value="mquezada"/>
+<deviceName value=""/>
+<system_wallpaper value="true"/>
+<fullscreen value="false"/>
+<battery_index value="2"/>
+<time_index value="3"/>
+<device_index value="0"/>
+<ram_index value="3"/>
+<storage_index value="2"/>
+<input_prefix value="&#55357;&#56960;"/>
+<input_root_prefix value="#"/>
+
+<ignore_bar_color value="false"/>
+<show_app_installed value="true"/>
+<show_app_uninstalled value="true"/>
+<ram_size value="13"/>
+<battery_size value="13"/>
+<device_size value="13"/>
+<time_size value="13"/>
+<storage_size value="13"/>
+<network_size value="13"/>
+<input_output_size value="13"/>
+<show_network_info value="true"/>
+<network_index value="1"/>
+
+<show_session_info value="true"/>
+<notes_size value="13"/>
+<show_notes value="true"/>
+<notes_index value="6"/>
+
+<notes_header value="%( --- Notes : %c ---%n/&#10;︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵)"/>
+<notes_footer value="%(%n︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵/)"/>
+<notes_divider value="%n"/>
+<show_restart_message value="true"/>
+<notes_max_lines value="5"/>
+
+<show_scroll_notes_message value="true"/>
+<show_weather value="true"/>
+<weather_index value="7"/>
+<weather_size value="13"/>
+<show_unlock_counter value="false"/>
+
+<unlock_index value="8"/>
+<unlock_size value="13"/>
+<status_bar_light_icons value="true"/>
+<status_lines_alignment value="-1,-1,-1,-1,-1,-1,-1,-1,-1"/>
+<display_margin_mm value="0,0,0,0"/>
+
+<bgrect_params value="2,0"/>
+<shadow_params value="2,2,0.2"/>
+
+
+
+
+<text_redraw_times value="1"/>
+<status_lines_margins value="3,3,0,0"/>
+<output_field_margins value="3,3,0,0"/>
+<input_field_margins value="3,3,0,0"/>
+<input_area_margins value="3,3,0,0"/>
+<toolbar_margins value="3,3,0,0"/>
+<suggestions_area_margin value="3,3,0,0"/>
+</UI>

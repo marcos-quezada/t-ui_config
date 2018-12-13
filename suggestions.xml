@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SUGGESTIONS>
+           <alias_bg_color value="#0f2f99"/>
+           <alias_text_color value="#75a4ff"/>
+           <apps_bg_color value="#00f7ff"/>
+           <apps_text_color value="#232323"/>
+           <cmd_bg_color value="#00475e"/>
+           <cmd_text_color value="#ffffff"/>
+           <contact_bg_color value="#64ffda"/>
+           <contact_text_color value="#000000"/>
+           <default_bg_color value="#002266"/>
+           <default_text_color value="#ffffff"/>
+           <enabled value="true"/>
+           <file_bg_color value="#03a9f4"/>
+           <file_text_color value="#000000"/>
+           <song_bg_color value="#00ffc4"/>
+           <song_text_color value="#000000"/>
+           <transparent value="false"/>
+      <show_suggestions value="true"/>
+<transparent_suggestions value="false"/>
+<suggest_alias_default value="true"/>
+<suggest_appgp_default value="true"/>
+<click_to_launch value="true"/>
+<suggestions_size value="12"/>
+<double_space_click_first_suggestion value="true"/>
+<noinput_suggestions_order value="0(5)1(5)2(2)3(5)"/>
+<suggestions_order value="2(2)0(5)1(5)3(3)"/>
+<noinput_min_command_priority value="5"/>
+<file_suggestions_minrate value="-1"/>
+<app_suggestions_minrate value="-1"/>
+<contact_suggestions_minrate value="-1"/>
+<song_suggestions_minrate value="-1"/>
+<hide_suggestions_when_empty value="always"/>
+<suggestions_spaces value="15,15,10,10"/>
+</SUGGESTIONS>
